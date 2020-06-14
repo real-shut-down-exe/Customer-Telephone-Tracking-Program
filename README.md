@@ -1,4 +1,4 @@
-"# Customer-Telephone-Tracking-Program" 
+# Customer-Telephone-Tracking-Program
 =====================================
 Program Language:
 * java
@@ -25,8 +25,8 @@ Properties:
 
 Follow me on these pages please :)
 ---------------------------------------------------
-* [instagram](https://www.instagram.com/real.shut.down.exe/)
-* [twitter](https://twitter.com/emr_yasa_)
+* [Instagram](https://www.instagram.com/real.shut.down.exe/)
+* [Twitter](https://twitter.com/emr_yasa_)
 * [My page](https://emre-yasar.web.app/)
 * Thank you for reading
 
